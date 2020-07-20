@@ -1,0 +1,494 @@
+[
+ {
+   "CallID": 1,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Analog"
+ },
+ {
+   "CallID": 2,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "TG-2 Local"
+ },
+ {
+   "CallID": 3,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "North America"
+ },
+ {
+   "CallID": 5469,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "VE3TST Local"
+ },
+ {
+   "CallID": 8,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "TG-8 Local"
+ },
+ {
+   "CallID": 9,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "TG-9 Local"
+ },
+ {
+   "CallID": 13,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "WorldWideENGLISH"
+ },
+ {
+   "CallID": 91,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "BM 91 World Wide"
+ },
+ {
+   "CallID": 93,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "BM 93 North Amer"
+ },
+ {
+   "CallID": 99,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Simplex 99"
+ },
+ {
+   "CallID": 30239,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "SAR TalkGroup"
+ },
+ {
+   "CallID": 302999,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "APRS BM 302999"
+ },
+ {
+   "CallID": 310999,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "APRS Gate 310999"
+ },
+ {
+   "CallID": 302,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada Wide"
+ },
+ {
+   "CallID": 302299,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada Testing"
+ },
+ {
+   "CallID": 30252,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada FREE"
+ },
+ {
+   "CallID": 30255,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada Veterans"
+ },
+ {
+   "CallID": 30265,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada Boating"
+ },
+ {
+   "CallID": 3020,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province NL  PEI"
+ },
+ {
+   "CallID": 30201,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "NL Rag Chew"
+ },
+ {
+   "CallID": 3021,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province NS"
+ },
+ {
+   "CallID": 30211,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "NS Rag Chew"
+ },
+ {
+   "CallID": 3022,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province Quebec"
+ },
+ {
+   "CallID": 30220,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "QC Rag Chew"
+ },
+ {
+   "CallID": 30221,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "QC Rag Chew1"
+ },
+ {
+   "CallID": 30222,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "QCDMRFusionLnk1"
+ },
+ {
+   "CallID": 302205,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "QCDMRFusionLnk2"
+ },
+ {
+   "CallID": 302220,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "QC DMR"
+ },
+ {
+   "CallID": 3023,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province Ontario"
+ },
+ {
+   "CallID": 30232,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "ON Storm Spot"
+ },
+ {
+   "CallID": 30231,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "ON Rag Chew"
+ },
+ {
+   "CallID": 302310,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada TAC"
+ },
+ {
+   "CallID": 30236,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Canada-Link"
+ },
+ {
+   "CallID": 302377,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Uncle Sams Cafe"
+ },
+ {
+   "CallID": 3024,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "ProvinceManitoba"
+ },
+ {
+   "CallID": 30241,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "MB Rag Chew"
+ },
+ {
+   "CallID": 3025,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province Sask"
+ },
+ {
+   "CallID": 30251,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "SK Rag Chew"
+ },
+ {
+   "CallID": 3026,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province Alberta"
+ },
+ {
+   "CallID": 30260,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "AB Truckers"
+ },
+ {
+   "CallID": 30261,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "AB Rag Chew"
+ },
+ {
+   "CallID": 3027,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province BC"
+ },
+ {
+   "CallID": 30271,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "BC1 Rag Chew"
+ },
+ {
+   "CallID": 30272,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "BC2 Rag Chew"
+ },
+ {
+   "CallID": 3028,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province NTYT NU"
+ },
+ {
+   "CallID": 30281,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "NT YT NU Rag Che"
+ },
+ {
+   "CallID": 30285,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Hiking in the fo"
+ },
+ {
+   "CallID": 3029,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Province NB"
+ },
+ {
+   "CallID": 30291,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "NB Rag Chew"
+ },
+ {
+   "CallID": 302911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster Canada"
+ },
+ {
+   "CallID": 3020911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster NL PEI"
+ },
+ {
+   "CallID": 3021911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster NS"
+ },
+ {
+   "CallID": 3022911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster QC"
+ },
+ {
+   "CallID": 3023911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster ON"
+ },
+ {
+   "CallID": 3024911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster MB"
+ },
+ {
+   "CallID": 3025911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster SK"
+ },
+ {
+   "CallID": 3026911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster AB"
+ },
+ {
+   "CallID": 3027911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster BC"
+ },
+ {
+   "CallID": 3028911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster NT YT N"
+ },
+ {
+   "CallID": 3029911,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Disaster NB"
+ },
+ {
+   "CallID": 3023065,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Peter 3065_"
+ },
+ {
+   "CallID": 3023212,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Peter 3212_"
+ },
+ {
+   "CallID": 3020342,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_Beth 0342_"
+ },
+ {
+   "CallID": 3020304,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_Christian 0304"
+ },
+ {
+   "CallID": 3020238,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Jack 0238_"
+ },
+ {
+   "CallID": 3023466,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_Luc 3466_"
+ },
+ {
+   "CallID": 3020920,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Reg 0920_"
+ },
+ {
+   "CallID": 3023078,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Tracy 3078_"
+ },
+ {
+   "CallID": 3021639,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_SBO-OVSAR F-150"
+ },
+ {
+   "CallID": 3021640,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_SBO-OVSAR UTV"
+ },
+ {
+   "CallID": 4000,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_RPTR Disconnect"
+ },
+ {
+   "CallID": 5000,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_RPTR Status_"
+ },
+ {
+   "CallID": 9990,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_RPTR Parrot BM_"
+ },
+ {
+   "CallID": 9999,
+   "CallReceiveTone": "No",
+   "CallType": "Private",
+   "Name": "_Parrot OS_"
+ },
+ {
+   "CallID": 3020356,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Don 0356_"
+ },
+ {
+   "CallID": 3020237,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_VA3COC Private_"
+ },
+ {
+   "CallID": 302354,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "L'Ange Gardien"
+ },
+ {
+   "CallID": 302010,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "VE3PRV Hammond"
+ },
+ {
+   "CallID": 31655,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Venture Overland"
+ },
+ {
+   "CallID": 1137550,
+   "CallReceiveTone": "No",
+   "CallType": "Group",
+   "Name": "Overland Bound"
+ },
+ {
+   "CallID": 3021796,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Denis 1796_"
+ },
+ {
+   "CallID": 3021818,
+   "CallReceiveTone": "Ring",
+   "CallType": "Private",
+   "Name": "_Daniel 1818_"
+ }
+]
